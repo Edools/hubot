@@ -1,5 +1,9 @@
 [
   "redis-brain.coffee",
   "shipit.coffee",
-  "xkcd.coffee"
+  "xkcd.coffee",
+  "decide.cofee",
+  "devexcuse.coffee",
+  "wolfram.coffee",
+  "github-pulls.coffee"
 ]
