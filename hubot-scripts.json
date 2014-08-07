@@ -2,7 +2,7 @@
   "redis-brain.coffee",
   "shipit.coffee",
   "xkcd.coffee",
-  "decide.cofee",
+  "decide.coffee",
   "devexcuse.coffee",
   "github-pulls.coffee"
 ]
