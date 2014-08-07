@@ -4,5 +4,6 @@
   "xkcd.coffee",
   "decide.coffee",
   "devexcuse.coffee",
-  "github-pulls.coffee"
+  "github-pulls.coffee",
+  "abstract.coffee"
 ]
