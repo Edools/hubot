@@ -6,5 +6,6 @@
   "devexcuse.coffee",
   "github-pulls.coffee",
   "abstract.coffee",
-  "advice.coffee"
+  "advice.coffee",
+  "applause.coffee"
 ]
