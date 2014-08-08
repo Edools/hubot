@@ -7,5 +7,6 @@
   "github-pulls.coffee",
   "abstract.coffee",
   "advice.coffee",
-  "applause.coffee"
+  "applause.coffee",
+  "cleverbot.coffee"
 ]
