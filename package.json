@@ -1,5 +1,5 @@
 {
-  "name": "hosted-hubot",
+  "name": "edools-hubot",
   "version": "2.7.1",
   "private": true,
   "author": "GitHub Inc.",
@@ -27,7 +27,8 @@
     "redis": "0.8.4",
     "cheerio": "~0.12.0",
     "githubot": "0.4.x",
-    "cleverbot-node": "0.1.8"
+    "cleverbot-node": "0.1.8",
+    "sandbox": "0.8.3"
   },
   "engines": {
     "node": ">= 0.8.x",

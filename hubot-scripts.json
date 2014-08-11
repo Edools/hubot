@@ -9,5 +9,6 @@
   "advice.coffee",
   "applause.coffee",
   "cleverbot.coffee",
-  "ruby.coffee"
+  "ruby.coffee",
+  "javascript-sandbox.coffee"
 ]
