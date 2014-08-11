@@ -8,5 +8,6 @@
   "abstract.coffee",
   "advice.coffee",
   "applause.coffee",
-  "cleverbot.coffee"
+  "cleverbot.coffee",
+  "ruby.coffee"
 ]
