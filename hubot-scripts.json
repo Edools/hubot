@@ -10,5 +10,6 @@
   "applause.coffee",
   "cleverbot.coffee",
   "ruby.coffee",
-  "javascript-sandbox.coffee"
+  "javascript-sandbox.coffee",
+  "meme_captain.coffee"
 ]
