@@ -11,5 +11,6 @@
   "cleverbot.coffee",
   "ruby.coffee",
   "javascript-sandbox.coffee",
-  "meme_captain.coffee"
+  "meme_captain.coffee",
+  "tweeter.coffee"
 ]
