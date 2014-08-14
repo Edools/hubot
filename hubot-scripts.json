@@ -12,5 +12,6 @@
   "ruby.coffee",
   "javascript-sandbox.coffee",
   "meme_captain.coffee",
-  "tweeter.coffee"
+  "tweeter.coffee",
+  "wolfram.coffee"
 ]

@@ -29,7 +29,8 @@
     "githubot": "0.4.x",
     "cleverbot-node": "0.1.8",
     "sandbox": "0.8.3",
-    "twit": "1.1.8"
+    "twit": "1.1.8",
+    "wolfram": "0.3.0"
   },
   "engines": {
     "node": ">= 0.8.x",
