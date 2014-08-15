@@ -13,5 +13,6 @@
   "javascript-sandbox.coffee",
   "meme_captain.coffee",
   "tweeter.coffee",
-  "wolfram.coffee"
+  "wolfram.coffee",
+  "zendesk.coffee"
 ]
