@@ -1,3 +1,9 @@
+# Aviso
+
+Esse repositório está deprecado e deverá ser removido em breve.
+
+
+
 # Hubot
 
 This is a version of GitHub's Campfire bot, hubot. He's pretty cool.
